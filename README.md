@@ -1,6 +1,6 @@
 # 📡 Alcides Tomás  
 
-**`Desenvolvedor Backend`**
+**`Engenheiro de Telecomunicações`**
 
 Meu nome é Alcides Mário Joaquim Tomás, tenho 31 anos e sou natural de Luanda, Angola. Sou formado em Engenharia Eletrônica e Telecomunicações pela Universidad Tecnológica de La Habana (CUJAE - Cuba) e, atualmente, estou cursando o mestrado em Telecomunicações no Instituto Nacional de Telecomunicações (Inatel - Brasil). Sou apaixonado por tecnologia e busco constantemente ampliar meu conhecimento em áreas relacionadas. Convido você a conhecer mais sobre mim em meu perfil no LinkedIn: "[Alcides Tomás](https://www.linkedin.com/in/alcides-tom%C3%A1s-a40482205/)".
 
