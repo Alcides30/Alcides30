@@ -30,7 +30,7 @@ Meu nome é Alcides Mário Joaquim Tomás, tenho 31 anos e sou natural de Luanda
 
 ---
 
-### 🖥️ Linguagens e tecnologias
+### 🖥️ Linguagens e Tecnologias
 <img 
     align="left" 
     alt="Python" 
