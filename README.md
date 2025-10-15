@@ -2,7 +2,9 @@
 
 **`Engenheiro de Telecomunicações`**
 
-Meu nome é Alcides Mário Joaquim Tomás, tenho 31 anos e sou natural de Luanda, Angola. Sou formado em Engenharia Eletrônica e Telecomunicações pela Universidad Tecnológica de La Habana (CUJAE - Cuba) e, atualmente, estou cursando o mestrado em Telecomunicações no Instituto Nacional de Telecomunicações (Inatel - Brasil). Sou apaixonado por tecnologia e busco constantemente ampliar meu conhecimento em áreas relacionadas. Convido você a conhecer mais sobre mim em meu perfil no LinkedIn: "[Alcides Tomás](https://www.linkedin.com/in/alcides-tom%C3%A1s-a40482205/)".
+Alcides Mário Joaquim Tomás é Engenheiro em Eletrônica e Telecomunicações (2020) pela Universidade Tecnológica de La Habana "José António Echeverria" (Cujae) e Mestre em Telecomunicações com especialização em Redes de Rádio Cognitivo e Eficiência Energética (2025) pelo Instituto Nacional de Telecomunicações (Inatel). Durante sua trajetória acadêmica, participou de uma feira científica, onde apresentou um projeto de automação residencial que recebeu o prêmio de maior relevância da edição. No mestrado, seu artigo “Algorithm for Sensor Exclusion and Dynamic Cluster Head Selection in Cognitive Radio Networks” foi premiado com o Best Paper Award no congresso ICDT em Nice, França.
+
+Atualmente é doutorando na Faculdade de Engenharia Elétrica e de Computação (FEEC) da Unicamp e bolsista no Instituto de Pesquisa Eldorado. Atua em tecnologias sem fio, redes 5G e além, eficiência e sustentabilidade energética, IoT e modelos de aprendizado de máquina aplicados à classificação e identificação de imagens. Convido você a conhecer mais sobre mim em meu perfil do LinkedIn: "[Alcides Tomás](https://www.linkedin.com/in/alcides-tom%C3%A1s-a40482205/)".
 
 <p align="left">
     <a href="https://www.linkedin.com/in/alcides-tom%C3%A1s-a40482205/">
